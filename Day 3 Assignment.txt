@@ -1,0 +1,24 @@
+1.Learn what semantic tags are and why they are important for SEO & accessibility. Compare semantic vs non-semantic tags.
+
+Semantic Tags:
+
+Semantic tags are HTML elements that clearly describe the meaning and purpose of the content inside them. They help browsers, developers, search engines, and assistive technologies understand the structure of a webpage.
+
+Examples include tags like <header>, <nav>, <article>, <section>, and <footer>.
+
+Importance for SEO:
+
+Semantic tags help search engines understand the structure and content of a webpage. This improves how pages are indexed and can contribute to better search rankings.
+
+Importance for Accessibility:
+
+Semantic tags help screen readers and assistive technologies identify different parts of a webpage, making it easier for people with disabilities to navigate the content.
+
+Semantic vs Non-Semantic Tags:
+
+Semantic Tags	Non-Semantic Tags
+Describe the meaning of content	Do not describe the content
+Examples: <header>, <nav>, <article>	Examples: <div>, <span>
+Better for SEO and accessibility	Provide no structural meaning
+
+	
